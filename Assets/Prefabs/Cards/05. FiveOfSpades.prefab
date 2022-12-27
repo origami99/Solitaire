@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6790301413016531257
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1574797650043487456, guid: 08d55d5f8a9ba254e80d98eddae91081,
+        type: 3}
+      propertyPath: _number
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1574797650043487456, guid: 08d55d5f8a9ba254e80d98eddae91081,
+        type: 3}
+      propertyPath: _data
+      value: 
+      objectReference: {fileID: 11400000, guid: 78c9edec358dcda479b398e632bf3477,
+        type: 2}
+    - target: {fileID: 1574797650043487457, guid: 08d55d5f8a9ba254e80d98eddae91081,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -3948453097499792371, guid: 38c611f916b7e834d957451d53084ed2,
+        type: 3}
+    - target: {fileID: 1574797650043487457, guid: 08d55d5f8a9ba254e80d98eddae91081,
+        type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1574797650043487457, guid: 08d55d5f8a9ba254e80d98eddae91081,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 3.39
+      objectReference: {fileID: 0}
+    - target: {fileID: 1574797650043487459, guid: 08d55d5f8a9ba254e80d98eddae91081,
+        type: 3}
+      propertyPath: m_Name
+      value: 05. FiveOfSpades
+      objectReference: {fileID: 0}
+    - target: {fileID: 1574797650043487470, guid: 08d55d5f8a9ba254e80d98eddae91081,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 3.39
+      objectReference: {fileID: 0}
+    - target: {fileID: 1574797650043487470, guid: 08d55d5f8a9ba254e80d98eddae91081,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 3.39
+      objectReference: {fileID: 0}
+    - target: {fileID: 1574797650043487471, guid: 08d55d5f8a9ba254e80d98eddae91081,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1574797650043487471, guid: 08d55d5f8a9ba254e80d98eddae91081,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1574797650043487471, guid: 08d55d5f8a9ba254e80d98eddae91081,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1574797650043487471, guid: 08d55d5f8a9ba254e80d98eddae91081,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 08d55d5f8a9ba254e80d98eddae91081, type: 3}

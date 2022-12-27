@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1292538246846013127
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5467705534416729558, guid: 5183eaa22f0821740a5543f517d1a462,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467705534416729558, guid: 5183eaa22f0821740a5543f517d1a462,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467705534416729558, guid: 5183eaa22f0821740a5543f517d1a462,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467705534416729558, guid: 5183eaa22f0821740a5543f517d1a462,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467705534416729559, guid: 5183eaa22f0821740a5543f517d1a462,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 3.3700001
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467705534416729559, guid: 5183eaa22f0821740a5543f517d1a462,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 3.3700001
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467705534416729560, guid: 5183eaa22f0821740a5543f517d1a462,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 5290588743308969707, guid: 38c611f916b7e834d957451d53084ed2,
+        type: 3}
+    - target: {fileID: 5467705534416729560, guid: 5183eaa22f0821740a5543f517d1a462,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 3.3700001
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467705534416729561, guid: 5183eaa22f0821740a5543f517d1a462,
+        type: 3}
+      propertyPath: _number
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467705534416729561, guid: 5183eaa22f0821740a5543f517d1a462,
+        type: 3}
+      propertyPath: _data
+      value: 
+      objectReference: {fileID: 11400000, guid: a02b9b19e21f64043b3674ca97ab330d,
+        type: 2}
+    - target: {fileID: 5467705534416729562, guid: 5183eaa22f0821740a5543f517d1a462,
+        type: 3}
+      propertyPath: m_Name
+      value: 06. SixOfSpades
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5183eaa22f0821740a5543f517d1a462, type: 3}

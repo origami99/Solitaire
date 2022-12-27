@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2914923738164152715
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3003739025962798514, guid: 42867ca3acd8f164d8d1db02d43c4c63,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 3.3700001
+      objectReference: {fileID: 0}
+    - target: {fileID: 3003739025962798514, guid: 42867ca3acd8f164d8d1db02d43c4c63,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 4.752067
+      objectReference: {fileID: 0}
+    - target: {fileID: 3003739025962798514, guid: 42867ca3acd8f164d8d1db02d43c4c63,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 3.3700001
+      objectReference: {fileID: 0}
+    - target: {fileID: 3003739025962798515, guid: 42867ca3acd8f164d8d1db02d43c4c63,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3003739025962798515, guid: 42867ca3acd8f164d8d1db02d43c4c63,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3003739025962798515, guid: 42867ca3acd8f164d8d1db02d43c4c63,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3003739025962798515, guid: 42867ca3acd8f164d8d1db02d43c4c63,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3003739025962798524, guid: 42867ca3acd8f164d8d1db02d43c4c63,
+        type: 3}
+      propertyPath: _sign
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3003739025962798524, guid: 42867ca3acd8f164d8d1db02d43c4c63,
+        type: 3}
+      propertyPath: _frontFaceSprite
+      value: 
+      objectReference: {fileID: 4758714507323444636, guid: 38c611f916b7e834d957451d53084ed2,
+        type: 3}
+    - target: {fileID: 3003739025962798524, guid: 42867ca3acd8f164d8d1db02d43c4c63,
+        type: 3}
+      propertyPath: _data
+      value: 
+      objectReference: {fileID: 11400000, guid: cda465829f7c81444ad6efba1acdae3b,
+        type: 2}
+    - target: {fileID: 3003739025962798525, guid: 42867ca3acd8f164d8d1db02d43c4c63,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 5488780184344539417, guid: 38c611f916b7e834d957451d53084ed2,
+        type: 3}
+    - target: {fileID: 3003739025962798525, guid: 42867ca3acd8f164d8d1db02d43c4c63,
+        type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3003739025962798525, guid: 42867ca3acd8f164d8d1db02d43c4c63,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 3.3700001
+      objectReference: {fileID: 0}
+    - target: {fileID: 3003739025962798527, guid: 42867ca3acd8f164d8d1db02d43c4c63,
+        type: 3}
+      propertyPath: m_Name
+      value: 01. AceOfSpades
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 42867ca3acd8f164d8d1db02d43c4c63, type: 3}
